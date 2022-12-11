@@ -28,7 +28,7 @@ function Product(props) {
           className="btn btn-sm btn-success mx-5 shadow"
           onClick={() => onAdd(product)}
         >
-          Add to cart
+          Add to Cart
         </button>
       )}
     </div>
