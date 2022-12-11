@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopingcart/static/css/main.c7308deb.css",
+    "main.js": "/shopingcart/static/js/main.29b85c6b.js",
+    "static/media/macbook.jpg": "/shopingcart/static/media/macbook.8bd2c04320f4d240c019.jpg",
+    "static/media/tablet.jpg": "/shopingcart/static/media/tablet.24b6cce04fe821566199.jpg",
+    "static/media/iphone.jpg": "/shopingcart/static/media/iphone.edbeafcdb191433e1e5f.jpg",
+    "index.html": "/shopingcart/index.html",
+    "main.c7308deb.css.map": "/shopingcart/static/css/main.c7308deb.css.map",
+    "main.29b85c6b.js.map": "/shopingcart/static/js/main.29b85c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7308deb.css",
+    "static/js/main.29b85c6b.js"
+  ]
+}
