@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: rgb(236, 236, 196);
+    height: 5rem;
+    border:  2px solid black;
+    border:none
+}
+ .header a{
+    text-decoration: none;
+    margin:auto 3px;
+}
+p{
+    color: blue;
+   
+}
